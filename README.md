@@ -1,5 +1,7 @@
 # Chronos ⏳
 
+![Chronos Demo](demo.gif)
+
 **Chronos** is a terminal-based benchmarking tool designed to test the runtime speed of AI systems. It specifically focuses on measuring token generation speed and analyzing the performance of agentic tasks, distinguishing between "thinking" time (LLM inference) and "acting" time (sandbox/tool execution).
 
 ## Features
@@ -76,4 +78,3 @@ vhs demo.tape
 - **Thinking**: [Vercel AI SDK](https://sdk.vercel.ai/) with [Groq](https://groq.com/)
 - **Acting**: [Playwright](https://playwright.dev/)
 - **Styling**: Chalk & Ora
-# chronos-benchmark
