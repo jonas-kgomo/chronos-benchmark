@@ -55,13 +55,13 @@ Show
 
 Type "chronos benchmark --tokens"
 Enter
-Sleep 8s
+Sleep 15s
 
 Type "chronos benchmark --agents"
 Enter
-Sleep 15s
+Sleep 30s
 
 Type "chronos resources"
 Enter
-Sleep 5s
+Sleep 10s
 
